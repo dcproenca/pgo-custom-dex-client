@@ -16714,7 +16714,7 @@
 		name: "Aquanatheus",
 		types: ["Water", "Dark"],
 		baseStats: {hp: 105, atk: 40, def: 90, spa: 90, spd: 105, spe: 5},
-		abilities: {0: "Truant", 1: "Water Absord", H: "Comatose"},
+		abilities: {0: "Truant", 1: "Water Absorb", H: "Comatose"},
 		heightm: 1.2,
 		weightkg: 57,
 		color: "Blue",
