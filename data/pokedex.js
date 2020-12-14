@@ -16709,6 +16709,18 @@
 		eggGroups: ["Bug", "Dragon"],
 		gen: 8,
 	},
+	aquanatheus: {
+		num: -60,
+		name: "Aquanatheus",
+		types: ["Water", "Dark"],
+		baseStats: {hp: 105, atk: 40, def: 90, spa: 90, spd: 105, spe: 5},
+		abilities: {0: "Truant", 1: "Water Absord", H: "Comatose"},
+		heightm: 1.2,
+		weightkg: 57,
+		color: "Blue",
+		eggGroups: ["Water 1", "Water 3"],
+		gen: 5,
+	},
 	// NOTE: PokeStar "formes" are not actually formes and thus do not have a formeOrder
 	pokestarsmeargle: {
 		num: -5000,

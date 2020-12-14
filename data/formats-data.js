@@ -6352,6 +6352,10 @@
 		isNonstandard: "CAP",
 		tier: "CAP",
 	},
+	aquanatheus: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
 	pokestarsmeargle: {
 		isNonstandard: "Custom",
 		tier: "Illegal",
